@@ -1,2 +1,2 @@
-# Data-Analyst-Excel-Portfolio
-This portfolio contains my projects on excel as a Data Analyst
+# Data-Analyst-Portfolio
+This portfolio contains my projects as a Data Analyst
